@@ -1,0 +1,25 @@
+.navigation {
+  margin: 0;
+  padding: 0 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 8%;
+}
+
+.navigation .rightNav {
+  height: 70px;
+  width: 70px;
+  margin: 10px 25px;
+}
+
+.navigation ul {
+  display: flex;
+}
+
+.navigation ul>li {
+  list-style-type: none;
+  margin: 5px 20px;
+  font-size: large;
+  font-weight: 500;
+}
